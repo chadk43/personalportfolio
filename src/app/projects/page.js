@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <div>
       <div className="flex justify-center items-center min-h-screen">
-        <article className="prose text-center text-2xl max-w-full px-4">
+        <article className="prose text-center text-2xl max-w-full px-4bn bn ">
           <h1>Projects</h1>
 
           <h2>Travel.Me</h2>
@@ -190,7 +190,7 @@ export default function Projects() {
               <div class="mb-10">
                 {" "}
                 Travel.Me is a full stack application that recommends travel
-                plans to user's based on their preferred travel location and
+                plans to user&apos;s based on their preferred travel location and
                 activities.
               </div>
               To use the app, the user first selects a country from the drop
@@ -204,12 +204,12 @@ export default function Projects() {
                 </div>
               </div>
               <blockquote>
-                "Currently only Finland is selectable. More country's to come in
-                the future."
+              &quot;Currently only Finland is selectable. More country&apos;s to come in
+                the future.&quot;
               </blockquote>
               <br></br>
               Secondly, the user can explore major destinations the country has
-              to offer. These destination's are major cities or regions that are
+              to offer. These destination&apos;s are major cities or regions that are
               most popular for tourists. Every destination comes with tags,
               these are the most popular activities to do in that area.
               <br></br> <br></br>
@@ -225,7 +225,7 @@ export default function Projects() {
               <br></br>The final step is to select at most 3 tags that interest
               you the most. Any combination of tags can be selected. A custom
               itinerary will then be generated, including what location you
-              should visit, activities to do, and the best time of year to come.
+              should visit, activities to do, and the best time of year.
               <br></br> <br></br>
               <br></br>
               <div class="text-center flex md:justify-center">

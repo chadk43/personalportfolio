@@ -45,7 +45,7 @@ export default function WorkTimeline() {
         <div className="timeline-end md:text-start  mb-10">
           <time className="font-mono italic">December 2023-Current</time>
           <div className="text-lg font-black">Tutor, Scholars</div>
-          I've always had a passion for helping others, and as a tutor I get to
+          I&apos;ve always had a passion for helping others, and as a tutor I get to
           help students succeed in their course work. At Scholars I teach
           English, Math, and Science for K-12 students and create learning
           videos for their social media.
