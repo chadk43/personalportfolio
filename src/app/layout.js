@@ -12,10 +12,11 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <Navbar />
         <div className="mb-60 sm:mb-0">{children}
-        <Analytics/>
+        
         </div>
 
         <Footer />
+        <Analytics/>
       </body>
     </html>
   );
