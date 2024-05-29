@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <div>
       <div className="flex justify-center items-center min-h-screen">
-        <article className="prose text-center text-2xl max-w-full px-4bn bn ">
+        <article className="prose text-center text-2xl max-w-5xl">
           <h1>Projects</h1>
 
           <h2>Travel.Me</h2>
