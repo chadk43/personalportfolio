@@ -194,7 +194,7 @@ export default function Projects() {
                 activities.
               </div>
               To use the app, the user first selects a country from the drop
-              down menu "Choose a destination".
+              down menu &quot;Choose a destination&quot;.
               <br></br> <br></br>
               <div class="text-center flex md:justify-center">
                 <div className="mockup-window border bg-base-300 w-full h-46 justify-center">
